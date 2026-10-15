@@ -1,0 +1,6 @@
+{
+  "name": "ScamSense - India's Scam Awareness Assistant",
+  "description": "Pause. Check. Stay Safe. AI-powered scam awareness assistant for India using Gemma to analyze suspicious SMS, WhatsApp messages, payment requests, and fraudulent screenshots.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
