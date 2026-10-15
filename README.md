@@ -7,7 +7,7 @@ ScamSense is a full-stack web application designed to help citizens and smartpho
 
 ---
 
-## 🌟  Gemma: Model Architecture
+##   Gemma: Model Architecture
 
 This application strictly uses a **multimodal Gemma model** for the visual analysis of user-uploaded screenshots.
 - **No Gemini models are used** for the analysis.
@@ -23,7 +23,7 @@ This application strictly uses a **multimodal Gemma model** for the visual analy
 
 ---
 
-## 🇮🇳 India-Specific Focus & Capabilities
+## 🇮 India-Specific Focus & Capabilities
 
 ScamSense addresses the most pervasive cyber scams targeting mobile users in India:
 
@@ -43,7 +43,7 @@ ScamSense addresses the most pervasive cyber scams targeting mobile users in Ind
 
 ---
 
-## 🚀 How to Run the Application
+##  How to Run the Application
 
 ### 1. Prerequisites
 - **Node.js** (v18 or higher recommended)
@@ -84,7 +84,7 @@ npm start
 
 ---
 
-## 🛡️ Structured Output Format
+##  Structured Output Format
 
 Every analysis report provides clear, structured cards with these specific headings:
 1. **Overall assessment:** High Suspicion / Caution Advised / Low Risk / Unreadable, with a plain-language summary.
@@ -96,7 +96,7 @@ Every analysis report provides clear, structured cards with these specific headi
 
 ---
 
-## ⚠️ Known Limitations & Responsible-Use Guidance
+##  Known Limitations & Responsible-Use Guidance
 
 - **Educational Awareness Tool:** ScamSense is an awareness assistant. An AI analysis does **not constitute legal or forensic proof** that a message is genuine or fraudulent.
 - **No Live Threat DB Queries:** The model analyzes visual and textual evidence in the screenshot; it does not crawl external hyperlinks or execute APKs.
@@ -106,7 +106,7 @@ Every analysis report provides clear, structured cards with these specific headi
 
 ---
 
-## 📞 Official Indian Cyber Crime Helplines
+##  Official Indian Cyber Crime Helplines
 
 - **Emergency Financial Cyber Fraud Helpline:** **1930** (Toll-Free, MHA / I4C)
 - **National Cyber Crime Reporting Portal:** [https://cybercrime.gov.in](https://cybercrime.gov.in)
