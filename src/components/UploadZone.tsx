@@ -127,7 +127,7 @@ export const UploadZone: React.FC<UploadZoneProps> = ({
       <div className="text-center max-w-3xl mx-auto pt-2 pb-4">
         <div className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-orange-100/80 text-orange-800 text-xs font-semibold mb-3 border border-orange-200">
           <Sparkles className="w-3.5 h-3.5 text-orange-600" />
-          <span>Multimodal AI Scam Detection for India</span>
+          <span>Trust Less, Verify More</span>
         </div>
         <h1 className="text-2xl sm:text-4xl font-extrabold text-slate-900 tracking-tight leading-tight">
           Received a suspicious message or payment request?
@@ -250,7 +250,7 @@ export const UploadZone: React.FC<UploadZoneProps> = ({
         <div className="mt-6 flex flex-col sm:flex-row items-center justify-between gap-3 pt-2">
           <div className="flex items-center gap-2 text-xs text-slate-500">
             <ShieldCheck className="w-4 h-4 text-emerald-600" />
-            <span>Encrypted transmission to server-side Gemma 4</span>
+            <span>Encrypted transmission to server-side </span>
           </div>
 
           <button
